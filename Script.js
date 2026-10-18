@@ -3,7 +3,7 @@
 const typingText = document.querySelector(".typing-text");
 
 const words = [
-    " MERN Stack Developer",
+    "MERN Stack Developer",
     "Web Developer",
     "UI/UX Designer"
 ];
